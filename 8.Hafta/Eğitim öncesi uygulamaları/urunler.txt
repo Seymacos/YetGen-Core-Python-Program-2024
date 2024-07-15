@@ -1,3 +1,4 @@
-kalem, 45
+Dolma kalem, 45
 Pantalon, 280
 Bilgisayar, 50000
+Su, 5
