@@ -1,0 +1,3 @@
+kalem, 45
+Pantalon, 280
+Bilgisayar, 50000
