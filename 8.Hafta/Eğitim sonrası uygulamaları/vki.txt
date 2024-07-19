@@ -1,2 +1,11 @@
-
-
+İsim                 Soyisim              Yaş   Boy (cm)   Kilo (kg)  VKI        Sınıf                Tarih       
+Selman               Hakkı                52    175.00     99.00      32.33      Obez                 24.02.2024  
+İrem                 Yalçın               14    158.00     45.00      18.03      Zayıf                12.06.2024  
+Kaan                 Mum                  35    186.00     75.00      21.68      Normal kilolu        30.05.2024  
+Deniz                Hal                  27    172.00     66.00      22.31      Normal kilolu        10.02.2024  
+Melis                Nal                  13    155.00     82.00      34.13      Obez                 24.03.2024  
+Cem                  Oğuz                 30    174.00     125.00     41.29      İleri derecede obez (morbid obez) 08.07.2024  
+Nalan                Kuş                  45    175.00     45.00      14.69      Zayıf                27.06.2024  
+Süleyman             Kan                  39    200.00     92.00      23.00      Normal kilolu        12.12.2023  
+İnci                 Zümrüt               92    163.00     74.00      27.85      Fazla kilolu         31.01.2024  
+Şimal                Men                  12    152.00     42.00      18.18      Zayıf                12.04.2024  

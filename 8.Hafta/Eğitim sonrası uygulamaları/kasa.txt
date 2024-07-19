@@ -1,0 +1,22 @@
+Satın Alınan Ürünler:
+elma - 4 adet
+armut - 6 adet
+üzüm - 1 adet
+Toplam Fiyat: 205 TL
+----------------------------------------
+Satın Alınan Ürünler:
+kavun - 2 adet
+Toplam Fiyat: 60 TL
+----------------------------------------
+Satın Alınan Ürünler:
+Toplam Fiyat: 0 TL
+----------------------------------------
+Satın Alınan Ürünler:
+çilek - 4 adet
+muz - 2 adet
+Toplam Fiyat: 140 TL
+----------------------------------------
+Satın Alınan Ürünler:
+üzüm - 4 adet
+Toplam Fiyat: 100 TL
+----------------------------------------
